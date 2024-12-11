@@ -4,3 +4,6 @@ ued.js
 /styles/**/*.min.css
 /scripts/**/*.min.js
 /plugins/
+/scripts/lib-franklin.js
+/scripts/**
+/blocks/**
